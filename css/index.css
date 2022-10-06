@@ -1,0 +1,54 @@
+.base{
+    float: left;
+    min-height: 600px;
+    width: 800px;
+    background-color: white;
+}
+.head{
+    float : left;
+    min-height: 70px;
+    width: 800px;
+   padding: 0px 15px;
+   background-color:yellow;
+   box-sizing: border-box;
+}
+.centr{
+    float:left ;
+    min-height: 460px;
+    width: 800px;
+    background-color:white;
+    margin: 15px 0px;
+}
+.bottom{
+    float: left;
+    min-height: 70px;
+    width: 800px;
+    padding: 0px 15px;
+    background-color:yellow;
+    box-sizing: border-box;
+}
+.nav{
+    float: left;
+    min-height:inherit;
+    width: 150px;
+    padding: 0px 15px;
+    background-color:yellow;
+    box-sizing: border-box;
+}
+.art{
+    float: left;
+    min-height: inherit;
+    width: 470px;
+    margin: 0px 15px;
+    padding: 0px 15px;
+    background-color:yellow;
+    box-sizing: border-box;
+}
+.ads{
+    float: left;
+    min-height: inherit;
+    width: 150px;
+    padding: 0px 15px;
+    background-color:yellow;
+    box-sizing: border-box;
+}
